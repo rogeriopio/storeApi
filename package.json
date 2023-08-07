@@ -1,0 +1,21 @@
+{
+    "name": "storeapi",
+    "version": "1.0.0",
+    "description": "",
+    "type": "module",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "Rogerio <rogerio@email.com>",
+    "license": "MIT",
+    "devDependencies": {
+        "@babel/eslint-parser": "^7.22.10",
+        "@types/node": "^20.4.8",
+        "eslint": "^8.46.0",
+        "eslint-config-prettier": "^9.0.0",
+        "eslint-plugin-prettier": "^5.0.0",
+        "prettier": "^3.0.1"
+    }
+}
